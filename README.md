@@ -1,5 +1,5 @@
-# rem-backing-contract
-The rem.backing public contract, which claims own reward and distributes it among the specified accounts.
+# employees-separation
+Classification model for the separation of company employees by importance.
 
 
   * [Overview](#Overview)
